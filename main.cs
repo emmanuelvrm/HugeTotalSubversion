@@ -10,7 +10,7 @@ namespace ProjetoTarefas
         {
             var menu = new Menu();
             menu.Mostrar();
-            // a
+            // o Thiago e o Hugo sao burrinhos
         }
     }
 }
